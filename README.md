@@ -28,6 +28,7 @@ Una vez allí hay que pegar el archivo DevilEngine.ini, hacer clic derecho en co
 
 
 Português
+
 Correção ou patch para DmC (2013) para otimização e queda de fps. Não é um patch oficial, mas funciona no Steam'
 
 Abra seu explorador de arquivos e cole este endereço.
