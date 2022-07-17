@@ -12,7 +12,7 @@ Once there you have to paste the file DevilEngine.ini, rigth click, configuratio
 Thats all! enjoy! 
 
 
-Español
+*****Español*****
 
 Corrección o parcche para  DmC (2013) para la optimizacion y los bajones de fps. no es un parche oficial pero funciona en Steam'
 
@@ -27,7 +27,7 @@ Una vez allí hay que pegar el archivo DevilEngine.ini, hacer clic derecho en co
 ¡Eso es todo! ¡disfrutar!
 
 
-Português
+*****Português*****
 
 Correção ou patch para DmC (2013) para otimização e queda de fps. Não é um patch oficial, mas funciona no Steam'
 
